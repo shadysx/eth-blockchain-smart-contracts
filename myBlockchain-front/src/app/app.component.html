@@ -1,0 +1,16 @@
+<mat-toolbar class="toolbar-container" color="primary">
+  <div class="toolbar-left">
+    <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <h4>Shady's Crypto Bank</h4>
+  </div>
+  <div class="toolbar-right">
+    <button  (click)="this.metamaskService.connectToMetaMask()" mat-button>
+      Connect Wallet
+      <mat-icon>wallet</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>
+<router-outlet></router-outlet>
+

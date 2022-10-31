@@ -1,0 +1,13 @@
+.toolbar-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.toolbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.toolbar-right {
+
+}
