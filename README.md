@@ -1,5 +1,8 @@
 # Blockchain App
 ![alt text](https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1385633225.jpg?w=730&crop=1)
+<p align="center">
+  <img src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1385633225.jpg?w=730&crop=1)" />
+</p>
 
 This app was made for educational purpose. Trying to understand how to deal with smart contracts.
 
