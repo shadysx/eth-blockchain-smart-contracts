@@ -10,16 +10,16 @@ Go on www.blockchainz.com/demo
 
 ### Getting started
 ```bash
-	git clone https://github.com/shadysx/eth-blockchain-smart-contracts
-	cd eth-blockchain-smart-contracts
-	npm install && ng serve
+git clone https://github.com/shadysx/eth-blockchain-smart-contracts
+cd eth-blockchain-smart-contracts
+npm install && ng serve
 ```
 
 ## Usage
 
 ### Deploy a wallet manually
 ```bash
-	npx hardhat run script/deploy.js
+npx hardhat run script/deploy.js
 ```
 
 ## Contributing
