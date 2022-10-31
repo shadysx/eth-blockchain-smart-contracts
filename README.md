@@ -5,9 +5,17 @@
 
 This app was made for educational purpose. Trying to understand how to deal with smart contracts.
 
+## List of the technologies
+- Angular 
+- Springboot 
+- Hardhat
+- Ethers 
+- PostgreSQL 
+- Solidity 
+
 ## How to try it
 
-Go on www.blockchainz.com/demo
+Visit this link (Coming soon)
 
 ## Or download the code and install
 
